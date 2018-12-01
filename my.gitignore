@@ -1,0 +1,10 @@
+#Executables
+*.swf
+*.air
+*.ipa
+*.apk
+
+#Other flies and floders
+.settings/
+
+#information for Eclipse / Flash Builder.
