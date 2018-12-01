@@ -6,5 +6,6 @@
 
 #Other flies and floders
 .settings/
+node_modules
 
 #information for Eclipse / Flash Builder.
