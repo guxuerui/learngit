@@ -268,3 +268,4 @@ $ git tag -d <tagname>
 ```bash
 $ git push origin :refs/tags/<tagname>
 ```
+如果创建的是一个新分支，不能直接git push,要使用git push origin newbranchname 来进行推送。
