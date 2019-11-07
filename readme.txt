@@ -5,3 +5,4 @@ Git has a mutable index called stage.
 Git tracks changes of file.
 Branch test and simple.
 Git is so hard.
+No,it is so easy!
