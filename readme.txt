@@ -6,3 +6,4 @@ Git tracks changes of file.
 Branch test and simple.
 Oh no!!!!
 keyile!!!!!
+这是test3分支上的文件！！！！！！！！
