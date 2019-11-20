@@ -15,3 +15,7 @@ fdslfdsjfsldjsfsdfjsdjssdfsjdl
 sdffdsfsdklfdsfsdj
 fsdljflsdjlskdj
 fsdssdffdsdffdsfdsfdsfdsfdsfdsdfsfdsfdsdfddsfsdfsdfdfddsdsf
+function aa() {
+	console.log(sss);
+}
+wode dlkjfl
